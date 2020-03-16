@@ -1,5 +1,5 @@
 <?php
-	error_reporting(1);
+	echo "Equipo-1";
 ?>
 <!DOCTYPE html>
 <html>
